@@ -3,7 +3,7 @@
 
 # Street Eats
 
-# hat and why?
+# What and why?
 I want to create an app for food carts and trucks to advertise their businesses.When it comes to looking up food online, a user who doesn't know what's around is rarely offered cart food options on sites like Yelp or through a quick Google search. Having an app for this will create a more centralized location to find food trucks/carts.  
 
 
